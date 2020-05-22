@@ -19,7 +19,7 @@
   ## Usage
   Run the app by typing 'node server.js' into the Terminal, then go to http://localhost:3000.index.html in a browser to try out the functionality. The application  saves user input to a JSON file, then reads the contents of that file and displays them back to the user.
 
-  ![Note Taker Demo](.public/assets/images/note-taker-DEMO.gif)
+  ![Note Taker Demo](public/assets/images/note-taker-DEMO.gif)
 
   <a name="license"></a>
   ## License
